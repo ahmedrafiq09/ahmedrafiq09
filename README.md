@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed Rafique</h1>
 <h3 align="center">A passionate data scientist from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.micoope.com.gt%2F%3Fo%3Dportrait-animated-gif-on-behance-nn-dE7GYdsp&psig=AOvVaw03Rmof01T9U5CCMLKYoGm2&ust=1705218865611000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjBlbvx2YMDFQAAAAAdAAAAABAR">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrafiq09&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrafiq09" /> </p>
 
